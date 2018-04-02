@@ -8,4 +8,5 @@ data/MLB_2012/MLB_PitchFX_2012_SpringTraining.csv
 data/MLB_PitchFX.csv
 data/MLB_PitchFX.sql
 data/MLB_Players.csv
+data/
 *.csv
