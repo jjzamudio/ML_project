@@ -9,4 +9,5 @@ data/MLB_PitchFX.csv
 data/MLB_PitchFX.sql
 data/MLB_Players.csv
 data/
+src/.ipynb_checkpoints/
 *.csv
